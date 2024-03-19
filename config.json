@@ -1,0 +1,12 @@
+{
+  "windows": {
+    "v1": {
+      "report_path": "./reports/v1"
+    }
+  },
+    "linux": {
+        "v1": {
+        "report_path": "./reports/v1"
+        }
+    }
+}
